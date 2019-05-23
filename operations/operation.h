@@ -124,22 +124,6 @@ public:
 };
 
 
-
-/*class variable:: public Operation{
-
-public:
-
-	variable(string equation_t, size_t pos_op){
-
-		left=nullptr;
-		right=nullptr;
-		equation=equation_t;
-	}	
-	float operate(string equation_t){
-		return (left->operate()+right->operate());
-	}	
-	
-};*/
 #endif
 
 
